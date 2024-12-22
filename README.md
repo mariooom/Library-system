@@ -3,7 +3,7 @@ a simple library system that manages borrowed and returned books.
 # Description
 This repository contains a Dart implementation of a simple Library System that manages borrowed and returned books. It includes classes for books, users, and the library itself, along with methods to perform operations like adding books, borrowing, and returning books.
 # Features
-- Classes
+- Classes:
   1. Book Class
   - Attributes:
   1) id: Unique identifier for the book.
@@ -12,7 +12,7 @@ This repository contains a Dart implementation of a simple Library System that m
   - Methods:
   1) displayInfo(): Displays book details.
   2. User Class
- - Attributes:
+  - Attributes:
   1) id: Unique identifier for the user.
   2) name: Name of the user.
   - Methods:
